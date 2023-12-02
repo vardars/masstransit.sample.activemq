@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Samples.ConsumerSample", "MassTransit.Samples.ConsumerSample\MassTransit.Samples.ConsumerSample.csproj", "{8476E04E-B6EE-4894-B3EF-83A797158BC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Samples.ProducerSample", "MassTransit.Samples.ProducerSample\MassTransit.Samples.ProducerSample.csproj", "{380C1AAF-9089-446F-87DD-BC1AFF792FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Samples.Data", "MassTransit.Samples.Data\MassTransit.Samples.Data.csproj", "{523DBBF8-40B3-4E02-A62C-38DA64342700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8476E04E-B6EE-4894-B3EF-83A797158BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8476E04E-B6EE-4894-B3EF-83A797158BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8476E04E-B6EE-4894-B3EF-83A797158BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8476E04E-B6EE-4894-B3EF-83A797158BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380C1AAF-9089-446F-87DD-BC1AFF792FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380C1AAF-9089-446F-87DD-BC1AFF792FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380C1AAF-9089-446F-87DD-BC1AFF792FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380C1AAF-9089-446F-87DD-BC1AFF792FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523DBBF8-40B3-4E02-A62C-38DA64342700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523DBBF8-40B3-4E02-A62C-38DA64342700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523DBBF8-40B3-4E02-A62C-38DA64342700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523DBBF8-40B3-4E02-A62C-38DA64342700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
